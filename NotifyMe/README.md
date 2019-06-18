@@ -1,3 +1,13 @@
-# Android Fundamentals and Concepts
+# NotifyMe
 
-This repo contains all the projects and codelabs that I did while learning android. This repo has only example projects and codelabs but not production applications.
+This application basically covers notifications concepts. 
+- How to create a notification
+- How to create a notification channel
+- update and cancle a notification using broadcast receivers.
+- Try out inbox styled notification.
+
+
+<img src="Screens/home.png" width=300 height=550>       <img src="Screens/notify.png" width=300 height=550>
+
+<img src="Screens/update.png" width=300 height=550>       <img src="Screens/inbox.png" width=300 height=550>
+
